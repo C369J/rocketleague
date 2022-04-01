@@ -5,8 +5,6 @@
   var x=0;
   var y=0;
 
-  Document.createElement('player');
-
 for() {
   
   sy --;
